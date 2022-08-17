@@ -6,7 +6,6 @@ const db = {
       { id: 4, title: "Dắt gấu đi dạo", isCompleted: false },
       { id: 5, title: "Trade coin", isCompleted: false },
    ],
-   query: "",
 };
 
 module.exports = db;
